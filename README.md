@@ -114,11 +114,13 @@ A full-stack pharmacy e-commerce application featuring prescription management, 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=duliniimasha&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
+<a href="https://github.com/duliniimasha?tab=achievements">
+  <img src="https://img.shields.io/badge/View_My_GitHub_Achievements-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
