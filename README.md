@@ -90,13 +90,13 @@ A full-stack pharmacy e-commerce application featuring prescription management, 
 
 ---
 
-## 📊 GitHub Statistics
+## ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=duliniimasha&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duliniimasha&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duliniimasha&layout=compact&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duliniimasha&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
 
 </div>
 
